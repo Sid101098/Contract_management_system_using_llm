@@ -1,1 +1,47 @@
+OFFICE LEASE AGREEMENT
 
+This Lease Agreement is made this 1st day of June, 2023, between:
+
+Landlord: Prime Properties LLC
+Address: 555 Commercial Street, Chicago, IL 60601
+Tenant: StartUp Innovations Inc.
+Address: 777 Entrepreneur Ave, Chicago, IL 60602 (Note: This is their current address, different from leased premises)
+
+Premises: Suite 1500, 1000 Business Center Drive, Chicago, IL 60601
+
+Term: The initial term of this Lease shall be thirty-six (36) months, commencing on July 1, 2023 and ending on June 30, 2026.
+
+Base Rent: Tenant shall pay Landlord base rent of $8,500 per month, payable in advance on the first day of each month.
+
+Security Deposit: Tenant has deposited with Landlord the sum of $17,000 as security for performance of Tenant's obligations.
+
+Use: The Premises shall be used solely for general office purposes and related activities.
+
+Maintenance: Landlord shall maintain the building structure and common areas. Tenant shall maintain the interior of the Premises.
+
+Utilities: Tenant shall pay for all utilities services consumed on the Premises.
+
+Insurance: Tenant shall maintain commercial general liability insurance with limits of not less than $1,000,000 per occurrence.
+
+Default: If Tenant fails to pay rent within 5 days of due date, or fails to perform any other obligation within 30 days after notice from Landlord, Landlord may terminate this Lease.
+
+Renewal Option: Tenant has one option to renew this Lease for an additional three-year term at 105% of the then-current base rent, provided Tenant gives written notice at least 180 days before expiration.
+
+Governing Law: This Lease shall be governed by the laws of the State of Illinois.
+
+IN WITNESS WHEREOF, the parties have executed this Lease Agreement.
+
+Prime Properties LLC
+By: _________________________
+Name: Robert Williams
+Title: Property Manager
+
+StartUp Innovations Inc.
+By: _________________________
+Name: Jennifer Lee
+Title: CEO
+
+ADDENDUM A - RENT SCHEDULE
+Year 1: $8,500/month
+Year 2: $8,750/month
+Year 3: $9,000/month
