@@ -1,1 +1,20 @@
-
+2024-01-15 09:00:01,123 - INFO - Starting Contract Management AI System
+2024-01-15 09:00:01,456 - INFO - Loading environment variables
+2024-01-15 09:00:01,789 - INFO - Initializing document processor
+2024-01-15 09:00:02,012 - INFO - Processing document: contract1.pdf
+2024-01-15 09:00:02,345 - INFO - Extracted 5 pages from contract1.pdf
+2024-01-15 09:00:02,678 - INFO - Processing document: contract2.docx
+2024-01-15 09:00:03,001 - INFO - Processing document: contract3.txt
+2024-01-15 09:00:03,334 - INFO - Split documents into 15 chunks
+2024-01-15 09:00:04,567 - INFO - Creating vector store with OpenAI embeddings
+2024-01-15 09:00:05,890 - INFO - Vector store created successfully with 15 documents
+2024-01-15 09:00:06,123 - INFO - Initializing RAG pipeline
+2024-01-15 09:00:06,456 - INFO - User query: "What is the expiration date for the software license?"
+2024-01-15 09:00:07,789 - INFO - Retrieved 3 relevant documents for query
+2024-01-15 09:00:08,012 - INFO - Generated answer with proper source citation
+2024-01-15 09:00:08,345 - INFO - Daily agent started - checking for expiring contracts
+2024-01-15 09:00:08,678 - INFO - Found 2 contracts expiring in next 30 days
+2024-01-15 09:00:09,001 - INFO - Detected 1 address conflict across documents
+2024-01-15 09:00:09,334 - INFO - Daily report generated successfully
+2024-01-15 09:00:10,567 - INFO - Email report sent to test@example.com
+2024-01-15 09:00:10,890 - INFO - System shutdown completed
